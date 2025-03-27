@@ -1,2 +1,2 @@
-# migration_project
-this  a splunk to YHP migration project
+# this is a learning python project.
+as a beginner, take it easy , and step by step.
