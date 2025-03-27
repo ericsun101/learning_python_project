@@ -1,0 +1,17 @@
+# 这是注释行
+hello  # 行尾注释
+  world  
+
+# 单独的注释行
+
+#[monitor://spdbjj/log/dxlog.log]
+#disabled = false
+#index = yjt
+#sourcetype = spdbjj.log
+#TCP_ROUTING = fxd2zeven
+
+[monitor://spdbjj/log/jglog.log]
+disabled = false
+index = yjt
+sourcetype = spdbjj.log
+TCP_ROUTING = fxd2zeven
